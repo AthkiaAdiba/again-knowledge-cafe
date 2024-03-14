@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "cover": "https://res.cloudinary.com/dv6fgvj2c/image/upload/v1710394505/qcfvu5jfexzj43fkwmkf.jpg",
+        "title": "Top 10 ES6 Feature You Must Know",
+        "author_name": "Hamza Sohail",
+        "author_img": "https://res.cloudinary.com/dv6fgvj2c/image/upload/v1710395076/cd2sdv1c6r5gkqxll5zc.png",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://res.cloudinary.com/dv6fgvj2c/image/upload/v1710394762/oehlzyhqhxhlzsxgrdwy.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_name": "Sajal Ali",
+        "author_img": "https://res.cloudinary.com/dv6fgvj2c/image/upload/v1710395148/skw0degy2hw4qlvh54md.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "time": 8,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://res.cloudinary.com/dv6fgvj2c/image/upload/v1710394855/lb9w0geyotqfpvcvanlr.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_name": "Feroze Khan",
+        "author_img": "https://res.cloudinary.com/dv6fgvj2c/image/upload/v1710395216/c1thj7nvad7njvcn5yrm.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://res.cloudinary.com/dv6fgvj2c/image/upload/v1710394930/kjufvauzflbuz6uof2vz.jpg",
+        "title": "Free images and resources collection for website",
+        "author_name": "Anmol Baloch",
+        "author_img": "https://res.cloudinary.com/dv6fgvj2c/image/upload/v1710395293/pu6xkvvkvvkrgjhiapgc.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "time": 5,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    }
+]
